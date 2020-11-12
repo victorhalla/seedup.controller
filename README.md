@@ -34,3 +34,5 @@ The shield will be designed to support diferrent type of sensors and controllers
 
  The eletronics can be added in the board in a Plug&Play mode, like Relay Board
   ![Relay Board](/docs/images/seedup-relay-v1.PNG "SEEDUP Relay Board")
+
+Test it !
