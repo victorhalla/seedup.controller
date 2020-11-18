@@ -68,3 +68,6 @@ Shield will also be cabable to use bluetooth sensors to obtain data like soil mo
 
 ### Self Watering System
 Self-watering containers work on a reservoir system. There is a water storage tank at the bottom of the container. The soil soaks up the water from the bottom through a wick, so as long as you keep the reservoir filled, your plants get a consistent level of moisture, delivered directly to their roots.
+
+## SeedUP Micro
+SeedUP Micro will only differ from Nano version due the capacity to support up 4 relays. This will allow to run more complicated setup that use more lamps, water automatic irrigation and temperature control.
