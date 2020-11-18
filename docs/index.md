@@ -38,7 +38,7 @@ Shield | SeedUP | SeedUP Micro | SeedUP Nano
 ------ | ------ | ------------ | -----------
 Wifi | 802.11b/g/n | 802.11b/g/n | 802.11b/g/n
 Bluetooth | 4.2 BT/BLE | 4.2 BT/BLE | 4.2 BT/BLE
-Camera | Yes | - | - | -
+Camera | Yes | - | -
 Controllers | 20 | 4 | 1
 - Relays | 11 (up to 20) | 4 | 1
 - Triac | 4 | - | -
