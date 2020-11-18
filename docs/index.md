@@ -27,12 +27,16 @@ Now using ESP32-CAM, Arduino Nano v3 and MCP23016 the idea is to create a modula
     10. Water Fog
 
 The picture below shows a simple system schematic:
- ![System Schematic](/seedup.controller/docs/images/schematic.PNG "SEEDUP Controller System Schematic")
+ ![System Schematic](/seedup.controller/images/schematic.PNG "SEEDUP Controller System Schematic")
 
 The shield will be designed to support diferrent type of sensors and controllers, like MOSFET, Relays, etc. First draft view of board is the following:
- ![Shield](/docs/images/seedup-board-v1.PNG "SEEDUP Board")
+ ![Shield](/seedup.controller/images/seedup-board-v1.PNG "SEEDUP Board")
 
- The eletronics can be added in the board in a Plug&Play mode, like Relay Board
-  ![Relay Board](/docs/images/seedup-relay-v1.PNG "SEEDUP Relay Board")
+To be able to start small I defined that 3 versions of the shield will be available: SeedUP, SeedUP Micro and SeedUP Nano with the following characteristcs:
 
-Test it !
+Shield | SeedUP | SeedUP Micro | SeedUP Nano
+------ | ------ | ------------ | -----------
+Wifi | 802.11b/g/n | 802.11b/g/n | 802.11b/g/n
+Bluetooth | 4.2 BT/BLE | 4.2 BT/BLE | 4.2 BT/BLE
+Camera | Yes | - | - | -
+Controllers | 20 | 4 | 1
