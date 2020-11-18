@@ -54,6 +54,7 @@ To be able to start small I defined that 3 versions of the shield will be availa
 -Water PH | Yes | - | -
 -Water Level | Yes | - | -
 -Bluetooth* | Yes | Yes | Yes
+
 *Bluetooth: use bluethooth sensors like Xiami Flora Sensor [https://xiaomi-mi.com/sockets-and-sensors/xiaomi-huahuacaocao-flower-care-smart-monitor/](https://xiaomi-mi.com/sockets-and-sensors/xiaomi-huahuacaocao-flower-care-smart-monitor/)
 
 The idea behind 3 shields is to facilitate from home use to professional use allowing more people to benefit from it.
