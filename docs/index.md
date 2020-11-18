@@ -35,7 +35,7 @@ The shield will be designed to support diferrent type of sensors and controllers
 To be able to start small I defined that 3 versions of the shield will be available: SeedUP, SeedUP Micro and SeedUP Nano with the following characteristcs:
 
 **Shield** | **SeedUP** | **SeedUP Micro** | **SeedUP Nano**
------- | ------ | ------------ | -----------
+:-- | :-: | :-: | :-:
 **Wifi** | 802.11b/g/n | 802.11b/g/n | 802.11b/g/n
 **Bluetooth** | 4.2 BT/BLE | 4.2 BT/BLE | 4.2 BT/BLE
 **Camera** | Yes | - | -
@@ -54,3 +54,6 @@ Water EC | Yes | - | -
 Water PH | Yes | - | -
 Water Level | Yes | - | -
 Bluetooth* | Yes | Yes | Yes
+
+The idea behind 3 shields is to facilitate from home use to professional use allowing more people to benefit from it.
+
