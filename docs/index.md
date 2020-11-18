@@ -40,20 +40,21 @@ To be able to start small I defined that 3 versions of the shield will be availa
 **Bluetooth** | 4.2 BT/BLE | 4.2 BT/BLE | 4.2 BT/BLE
 **Camera** | Yes | - | -
 **Controllers** | 20 | 4 | 1
-Relays | 11 (up to 20) | 4 | 1
-Triac | 4 | - | -
-Mosfet | 5 | - | -
+-Relays | 11 (up to 20) | 4 | 1
+-Triac | 4 | - | -
+-Mosfet | 5 | - | -
 **Sensors** | 10 | 1 | 1
-Air Temperature | Yes | - | -
-Air Humidity | Yes | - | -
-CO2 | Yes | - | -
-Light | Yes | - | -
-Water Flow | Yes | - | -
-Water Temperature | Yes | - | -
-Water EC | Yes | - | -
-Water PH | Yes | - | -
-Water Level | Yes | - | -
-Bluetooth* | Yes | Yes | Yes
+-Air Temperature | Yes | - | -
+-Air Humidity | Yes | - | -
+-CO2 | Yes | - | -
+-Light | Yes | - | -
+-Water Flow | Yes | - | -
+-Water Temperature | Yes | - | -
+-Water EC | Yes | - | -
+-Water PH | Yes | - | -
+-Water Level | Yes | - | -
+-Bluetooth* | Yes | Yes | Yes
+
 
 The idea behind 3 shields is to facilitate from home use to professional use allowing more people to benefit from it.
 
