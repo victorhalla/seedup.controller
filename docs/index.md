@@ -59,3 +59,12 @@ To be able to start small I defined that 3 versions of the shield will be availa
 
 The idea behind 3 shields is to facilitate from home use to professional use allowing more people to benefit from it.
 
+## SeedUP Nano
+SeedUP Nano will basic work for self watering planter allowing to eliminate basic problems on a domestic indoor environment.
+Many people want to plant indoors by placing pots next to the windows, but most of the time they are not successful. The two main problems are the lack of lighting and water. To solve the lighting problem it is necessary to add lamps that can overcome this deficiency and to automate the water process we can use the self watering system.
+Shield will also be cabable to use bluetooth sensors to obtain data like soil moisture, temperature, sunlight and nutrient.
+
+ ![SeedUp Nano](/seedup.controller/images/seedup_nano_v1.png "SeedUP Nano")
+
+### Self Watering System
+Self-watering containers work on a reservoir system. There is a water storage tank at the bottom of the container. The soil soaks up the water from the bottom through a wick, so as long as you keep the reservoir filled, your plants get a consistent level of moisture, delivered directly to their roots.
