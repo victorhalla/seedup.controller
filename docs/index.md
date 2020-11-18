@@ -27,7 +27,7 @@ Now using ESP32-CAM, Arduino Nano v3 and MCP23016 the idea is to create a modula
     10. Water Fog
 
 The picture below shows a simple system schematic:
- ![System Schematic](/seedup.controller/images/schematic.PNG "SEEDUP Controller System Schematic")
+ ![System Schematic](/seedup.controller/images/seedup_schematic.png "SEEDUP Controller System Schematic")
 
 The shield will be designed to support diferrent type of sensors and controllers, like MOSFET, Relays, etc. First draft view of board is the following:
  ![Shield](/seedup.controller/images/seedup-board-v1.PNG "SEEDUP Board")
@@ -61,13 +61,17 @@ The idea behind 3 shields is to facilitate from home use to professional use all
 
 ## SeedUP Nano
 SeedUP Nano will basic work for self watering planter allowing to eliminate basic problems on a domestic indoor environment.
+
 Many people want to plant indoors by placing pots next to the windows, but most of the time they are not successful. The two main problems are the lack of lighting and water. To solve the lighting problem it is necessary to add lamps that can overcome this deficiency and to automate the water process we can use the self watering system.
+
 Shield will also be cabable to use bluetooth sensors to obtain data like soil moisture, temperature, sunlight and nutrient.
 
- ![SeedUp Nano](/seedup.controller/images/seedup_nano_v1.png "SeedUP Nano")
+ ![SeedUp Nano](/seedup.controller/images/seedup_nano_schematic.png "SeedUP Nano")
 
 ### Self Watering System
 Self-watering containers work on a reservoir system. There is a water storage tank at the bottom of the container. The soil soaks up the water from the bottom through a wick, so as long as you keep the reservoir filled, your plants get a consistent level of moisture, delivered directly to their roots.
 
 ## SeedUP Micro
 SeedUP Micro will only differ from Nano version due the capacity to support up 4 relays. This will allow to run more complicated setup that use more lamps, water automatic irrigation and temperature control.
+
+ ![SeedUp Micro](/seedup.controller/images/seedup_micro_schematic.png "SeedUP Micro")
